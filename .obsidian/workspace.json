@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leesm.log/reference/metro config.md",
+                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leesm.log/reference/metro config.md",
+                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leesm.log/reference/metro config.md",
+                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leesm.log/reference/metro config.md"
+                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md"
               }
             }
           }
@@ -156,28 +156,34 @@
   },
   "active": "ec1e7807b8945dbf",
   "lastOpenFiles": [
+    "leesm.log/error.log/privacy manifests.md",
+    "Pasted image 20240502102945.png",
+    "Pasted image 20240502102715.png",
+    "Pasted image 20240502102642.png",
+    "leesm.log/ios/Widget.md",
+    "Pasted image 20240502102438.png",
+    "무제 파일.md",
+    "leesm.log/error.log/xcode netowork error.md",
+    "인아웃/회의/무제 파일.md",
+    "인아웃/회의/검색 리뉴얼.md",
+    "인아웃/기능/그룹 배틀/그룹 배틀.canvas",
+    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 타입.md",
+    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 요소.md",
+    "leesm.log/reference/metro config.md",
     "leesm.log/side project/Spread/기능 명세서.md",
     "leesm.log/inout/retrospect/그룹 배틀.md",
-    "leesm.log/reference/metro config.md",
-    "leesm.log/inout/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
-    "leesm.log/inout/error.log/xcode netowork error.md",
+    "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
     "leesm.log/side project/PULIP/PULIP LOGO.md",
     "leesm.log/inout/회고/무제 폴더",
     "leesm.log/reference",
-    "leesm.log/inout/error.log",
+    "leesm.log/error.log",
     "leesm.log/side project/PULIP",
     "인아웃/기능/그룹 배틀/파트 분배.md",
-    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 요소.md",
     "leesm.log/inout/retrospect",
     "leesm.log/side project",
     "leesm.log/inout",
-    "인아웃/기능/그룹 배틀/그룹 배틀.canvas",
     "인아웃/기능/그룹 배틀/서버 요청/서버 요청 흐름도.md",
-    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 타입.md",
     "인아웃/온보딩/알아야 할 리스트.md",
-    "인아웃/회의/무제 파일.md",
-    "인아웃/회의/검색 리뉴얼.md",
-    "인아웃/ios/privacy manifests.md",
     "인아웃/면접/2차 면접.md",
     "인아웃/면접/기본 프론트 면접 질문.md",
     "인아웃/기능/위젯/식단 위젯/딥 링크.md",
@@ -186,12 +192,10 @@
     "인아웃/기능/위젯/단식 위젯/루틴 타이머 (Routine).md",
     "leesm.log/TDD/테스트 환경과 매처.md",
     "leesm.log/TDD/React Testing Library.md",
-    "인아웃/ios",
+    "leesm.log/ios",
     "인아웃/기능/위젯/단식 위젯/스톱 워치 (FastingStopwatch).md",
-    "인아웃/기능/위젯/단식 위젯/일회용 타이머 (FastingTimer).md",
     "leesm.log/Spring/무제 파일.canvas",
     "leesm.log/Spring",
-    "leesm.log/TDD/setup과 teardown.md",
     "인아웃/기능/위젯/단식 위젯",
     "Pasted image 20240129164836.png",
     "IMG_FC4CBEABC499-1.jpeg",
