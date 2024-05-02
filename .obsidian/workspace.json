@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "861ca12f87c98c5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e798338557ea94a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec1e7807b8945dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leesm.log/reference/metro config.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24fe9c5d25b05c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a61c11b47093e1f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8c26ac954c8af5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8174c0965e5dc7f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:gallery",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "078f23c6c6e7f242",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "199da9a54bfbe0b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5026054382324
+  },
+  "right": {
+    "id": "ee2a2ee2ab090cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a1ae431d943af47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d46ad30df039a77c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "leesm.log/reference/metro config.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a220b1ec871264b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "leesm.log/reference/metro config.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0157d2f8c78a29a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "007fe7e204975ac1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leesm.log/reference/metro config.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ec1e7807b8945dbf",
+  "lastOpenFiles": [
+    "leesm.log/inout/retrospect/그룹 배틀.md",
+    "leesm.log/inout/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
+    "leesm.log/inout/error.log/xcode netowork error.md",
+    "leesm.log/side project/PULIP/PULIP LOGO.md",
+    "leesm.log/side project/Spread/기능 명세서.md",
+    "leesm.log/reference/metro config.md",
+    "leesm.log/inout/회고/무제 폴더",
+    "leesm.log/reference",
+    "leesm.log/inout/error.log",
+    "leesm.log/side project/PULIP",
+    "인아웃/기능/그룹 배틀/파트 분배.md",
+    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 요소.md",
+    "leesm.log/inout/retrospect",
+    "leesm.log/side project",
+    "leesm.log/inout",
+    "인아웃/기능/그룹 배틀/그룹 배틀.canvas",
+    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 흐름도.md",
+    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 타입.md",
+    "인아웃/온보딩/알아야 할 리스트.md",
+    "인아웃/회의/무제 파일.md",
+    "인아웃/회의/검색 리뉴얼.md",
+    "인아웃/ios/privacy manifests.md",
+    "인아웃/면접/2차 면접.md",
+    "인아웃/면접/기본 프론트 면접 질문.md",
+    "인아웃/기능/위젯/식단 위젯/딥 링크.md",
+    "leesm.log/TDD/테스트가 코드에 미치는 영향.md",
+    "leesm.log/TDD/올바른 테스트 작성을 위한 규칙.md",
+    "인아웃/기능/위젯/단식 위젯/루틴 타이머 (Routine).md",
+    "leesm.log/TDD/테스트 환경과 매처.md",
+    "leesm.log/TDD/React Testing Library.md",
+    "인아웃/ios",
+    "인아웃/기능/위젯/단식 위젯/스톱 워치 (FastingStopwatch).md",
+    "인아웃/기능/위젯/단식 위젯/일회용 타이머 (FastingTimer).md",
+    "leesm.log/Spring/무제 파일.canvas",
+    "leesm.log/Spring",
+    "leesm.log/TDD/setup과 teardown.md",
+    "인아웃/기능/위젯/단식 위젯",
+    "Pasted image 20240129164836.png",
+    "IMG_FC4CBEABC499-1.jpeg",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas",
+    "무제 파일 2.canvas",
+    "무제 파일 3.canvas"
+  ]
+}

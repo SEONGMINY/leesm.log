@@ -1,0 +1,1 @@
+https://github.com/NervJS/taro/blob/8c8345ed54743b4d200809cba9a0640f63652f1e/packages/taro-rn-runner/src/index.ts#L10
