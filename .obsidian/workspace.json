@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
+                "file": "leesm.log/error.log/privacy manifests.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
+                "file": "leesm.log/error.log/privacy manifests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
+                "file": "leesm.log/error.log/privacy manifests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md"
+                "file": "leesm.log/error.log/privacy manifests.md"
               }
             }
           }
@@ -156,13 +156,16 @@
   },
   "active": "ec1e7807b8945dbf",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240502102945.png",
+    "attachment/Pasted image 20240502103801.png",
+    "attachment/Pasted image 20240502102715.png",
+    "attachment/Pasted image 20240502102642.png",
+    "attachment/Pasted image 20240502102438.png",
     "leesm.log/error.log/privacy manifests.md",
-    "Pasted image 20240502102945.png",
-    "Pasted image 20240502102715.png",
-    "Pasted image 20240502102642.png",
-    "leesm.log/ios/Widget.md",
-    "Pasted image 20240502102438.png",
+    "attachment",
     "무제 파일.md",
+    "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
+    "leesm.log/ios/Widget.md",
     "leesm.log/error.log/xcode netowork error.md",
     "인아웃/회의/무제 파일.md",
     "인아웃/회의/검색 리뉴얼.md",
@@ -172,7 +175,6 @@
     "leesm.log/reference/metro config.md",
     "leesm.log/side project/Spread/기능 명세서.md",
     "leesm.log/inout/retrospect/그룹 배틀.md",
-    "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
     "leesm.log/side project/PULIP/PULIP LOGO.md",
     "leesm.log/inout/회고/무제 폴더",
     "leesm.log/reference",
@@ -196,7 +198,6 @@
     "인아웃/기능/위젯/단식 위젯/스톱 워치 (FastingStopwatch).md",
     "leesm.log/Spring/무제 파일.canvas",
     "leesm.log/Spring",
-    "인아웃/기능/위젯/단식 위젯",
     "Pasted image 20240129164836.png",
     "IMG_FC4CBEABC499-1.jpeg",
     "무제 파일.canvas",
