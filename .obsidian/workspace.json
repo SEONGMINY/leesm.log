@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7e798338557ea94a",
+        "id": "ac6405aae82796d8",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1e7807b8945dbf",
+            "id": "f57a2714d8aa83cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leesm.log/error.log/privacy manifests.md",
+                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:gallery",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5026054382324
+    "width": 200
   },
   "right": {
     "id": "ee2a2ee2ab090cdb",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leesm.log/error.log/privacy manifests.md",
+                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leesm.log/error.log/privacy manifests.md",
+                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leesm.log/error.log/privacy manifests.md"
+                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md"
               }
             }
           }
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,55 +152,50 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "ec1e7807b8945dbf",
+  "active": "5c8c26ac954c8af5",
   "lastOpenFiles": [
-    "attachment/Pasted image 20240502102945.png",
-    "attachment/Pasted image 20240502103801.png",
-    "attachment/Pasted image 20240502102715.png",
-    "attachment/Pasted image 20240502102642.png",
-    "attachment/Pasted image 20240502102438.png",
-    "leesm.log/error.log/privacy manifests.md",
-    "attachment",
+    "leesm.log/inout/sketchbook/무제 파일 1.md",
+    "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
     "무제 파일.md",
-    "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
-    "leesm.log/ios/Widget.md",
-    "leesm.log/error.log/xcode netowork error.md",
-    "인아웃/회의/무제 파일.md",
-    "인아웃/회의/검색 리뉴얼.md",
-    "인아웃/기능/그룹 배틀/그룹 배틀.canvas",
-    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 타입.md",
-    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 요소.md",
-    "leesm.log/reference/metro config.md",
-    "leesm.log/side project/Spread/기능 명세서.md",
+    "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
+    "leesm.log/inout/sketchbook/RN 리펙토링 기능 체크리스트.md",
+    "leesm.log/TDD/단위 테스트.md",
     "leesm.log/inout/retrospect/그룹 배틀.md",
-    "leesm.log/side project/PULIP/PULIP LOGO.md",
-    "leesm.log/inout/회고/무제 폴더",
-    "leesm.log/reference",
-    "leesm.log/error.log",
-    "leesm.log/side project/PULIP",
-    "인아웃/기능/그룹 배틀/파트 분배.md",
-    "leesm.log/inout/retrospect",
-    "leesm.log/side project",
-    "leesm.log/inout",
-    "인아웃/기능/그룹 배틀/서버 요청/서버 요청 흐름도.md",
-    "인아웃/온보딩/알아야 할 리스트.md",
-    "인아웃/면접/2차 면접.md",
-    "인아웃/면접/기본 프론트 면접 질문.md",
-    "인아웃/기능/위젯/식단 위젯/딥 링크.md",
-    "leesm.log/TDD/테스트가 코드에 미치는 영향.md",
-    "leesm.log/TDD/올바른 테스트 작성을 위한 규칙.md",
-    "인아웃/기능/위젯/단식 위젯/루틴 타이머 (Routine).md",
-    "leesm.log/TDD/테스트 환경과 매처.md",
     "leesm.log/TDD/React Testing Library.md",
-    "leesm.log/ios",
-    "인아웃/기능/위젯/단식 위젯/스톱 워치 (FastingStopwatch).md",
-    "leesm.log/Spring/무제 파일.canvas",
-    "leesm.log/Spring",
-    "Pasted image 20240129164836.png",
+    "leesm.log/TDD/테스트가 코드에 미치는 영향.md",
+    "leesm.log/TDD/테스트 환경과 매처.md",
+    "leesm.log/TDD/올바른 테스트 작성을 위한 규칙.md",
+    "인아웃/회의/검색 리뉴얼.md",
+    "인아웃/회의/무제 파일.md",
+    "leesm.log/side project/PULIP/PULIP LOGO.md",
+    "인아웃/기능/그룹 배틀/파트 분배.md",
+    "leesm.log/inout/sketchbook/react native refactor 기능 체크리스트.md",
+    "2. Area/Area 설명.md",
+    "1. Project/Project 설명.md",
+    "1. Project/식단 앨범/테스트 케이스 (식단 앨범).md",
+    "0. Inbox/공용 컴포넌트 만들 시 유의사항.md",
+    "0. Inbox/react native 태그 사용 정리.md",
+    "2. Area/마이노멀컴퍼니/Git, PR 전략 논의내용 정리.md",
+    "1. Project/소통 (댓글)/소통 댓글 기능 메모.md",
+    "1. Project/소통 (댓글)/테스트 케이스 (댓글).md",
+    "1. Project/식단 앨범/식단 앨범 기능 메모.md",
+    "1. Project/소통 (댓글)",
+    "2. Area/마이노멀컴퍼니/현재 회사에서 필요한 정리항목.md",
+    "1. Project/식단 앨범",
     "IMG_FC4CBEABC499-1.jpeg",
+    "3. Resource/IOS",
+    "3. Resource/Typescript",
+    "3. Resource/React native",
+    "4. Archive/마이노멀컴퍼니",
+    "4. Archive/마이노멀컴퍼니/눈바디 기능 구현",
+    "4. Archive/마이노멀컴퍼니/스티커 & 일기장 리뉴얼",
+    "3. Resource/Android",
+    "4. Archive/AOS 운동 데이터 연동",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",

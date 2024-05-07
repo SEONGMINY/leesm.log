@@ -4,7 +4,5 @@
   "enabledCssSnippets": [
     "color-extend"
   ],
-  "baseFontSize": 14,
-  "translucency": false,
-  "nativeMenus": true
+  "baseFontSize": 14
 }
