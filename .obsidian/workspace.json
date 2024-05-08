@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6405aae82796d8",
+        "id": "d8d5f776fa837e86",
         "type": "tabs",
         "children": [
           {
-            "id": "f57a2714d8aa83cf",
+            "id": "4899a1a1cf4a08f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
+                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
+                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
+                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md"
+                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md"
               }
             }
           }
@@ -157,12 +158,23 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "5c8c26ac954c8af5",
+  "active": "4899a1a1cf4a08f7",
   "lastOpenFiles": [
+    "Pasted image 20240508160253.png",
+    "Pasted image 20240508155436.png",
+    "Pasted image 20240508155234.png",
+    "Pasted image 20240508155103.png",
+    "leesm.log/error.log/privacy manifests.md",
+    "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
+    "Pasted image 20240508145654.png",
+    "무제 파일.canvas",
+    "Pasted image 20240508151320.png",
+    "attachment/pre-compilation.gif",
+    "leesm.log/error.log/xcode netowork error.md",
+    "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
+    "leesm.log/error.log/Splash 화면 이후 넘어가지 않는 현상.md",
     "leesm.log/inout/sketchbook/무제 파일 1.md",
-    "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
     "무제 파일.md",
-    "leesm.log/inout/sketchbook/인아웃 리펙토링 체크리스트.md",
     "leesm.log/inout/sketchbook/RN 리펙토링 기능 체크리스트.md",
     "leesm.log/TDD/단위 테스트.md",
     "leesm.log/inout/retrospect/그룹 배틀.md",
@@ -181,11 +193,7 @@
     "0. Inbox/공용 컴포넌트 만들 시 유의사항.md",
     "0. Inbox/react native 태그 사용 정리.md",
     "2. Area/마이노멀컴퍼니/Git, PR 전략 논의내용 정리.md",
-    "1. Project/소통 (댓글)/소통 댓글 기능 메모.md",
-    "1. Project/소통 (댓글)/테스트 케이스 (댓글).md",
-    "1. Project/식단 앨범/식단 앨범 기능 메모.md",
     "1. Project/소통 (댓글)",
-    "2. Area/마이노멀컴퍼니/현재 회사에서 필요한 정리항목.md",
     "1. Project/식단 앨범",
     "IMG_FC4CBEABC499-1.jpeg",
     "3. Resource/IOS",
@@ -196,7 +204,6 @@
     "4. Archive/마이노멀컴퍼니/스티커 & 일기장 리뉴얼",
     "3. Resource/Android",
     "4. Archive/AOS 운동 데이터 연동",
-    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "무제 파일 2.canvas",
     "무제 파일 3.canvas"
