@@ -9,7 +9,7 @@
 
 `Hermes` 엔진은 이러한 문제를 해결하기 위해 **생성된 번들을 빌드 타임에 `사전 컴파일(Pre-compilation)`하여 즉시 실행 가능한 바이트 코드(Bytecode) 형태로 변환**한다. 
 
-빌드 타임에 컴파일하는 코드를 확인하고 싶다면 아래를 링크를 통해 확인할 수 있다
+빌드 타임에 컴파일하는 코드를 확인하고 싶다면 아래 링크를 통해 확인할 수 있다
 - [Android Gradle Plugin](https://github.com/facebook/react-native/blob/v0.72.0/packages/react-native-gradle-plugin/src/main/kotlin/com/facebook/react/tasks/BundleHermesCTask.kt#L92-L113)
 - [iOS Shell Script](https://github.com/facebook/react-native/blob/v0.72.0/packages/react-native/scripts/react-native-xcode.sh#L170-L186)
 # CodePush 이슈
