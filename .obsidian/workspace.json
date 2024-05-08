@@ -11,11 +11,9 @@
             "id": "4899a1a1cf4a08f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
-                "mode": "source",
-                "source": false
+                "file": "attachment/Pasted image 20240508155103.png"
               }
             }
           }
@@ -73,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
+                "file": "attachment/Pasted image 20240508155103.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
+                "file": "attachment/Pasted image 20240508155103.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md"
+                "file": "attachment/Pasted image 20240508155103.png"
               }
             }
           }
@@ -160,12 +157,12 @@
   },
   "active": "4899a1a1cf4a08f7",
   "lastOpenFiles": [
-    "Pasted image 20240508160253.png",
-    "Pasted image 20240508155436.png",
-    "Pasted image 20240508155234.png",
-    "Pasted image 20240508155103.png",
-    "leesm.log/error.log/privacy manifests.md",
     "leesm.log/error.log/Hermes Pre-compilation 이슈 (feat.Code Push).md",
+    "attachment/Pasted image 20240508160253.png",
+    "attachment/Pasted image 20240508155436.png",
+    "attachment/Pasted image 20240508155234.png",
+    "attachment/Pasted image 20240508155103.png",
+    "leesm.log/error.log/privacy manifests.md",
     "Pasted image 20240508145654.png",
     "무제 파일.canvas",
     "Pasted image 20240508151320.png",
